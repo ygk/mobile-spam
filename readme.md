@@ -6,13 +6,13 @@ Oresently there are 106 caller-ids in the [vCard](https://github.com/ygk/mobile-
 
 ## Installation
 
+Regardless of your type of smartphone, send the `spam.vcf` file to your phone and click on it.  This will create a contact named `Spam`.
+
 ### on iOS
 
-1. Send the `spam.vcf` file to your phone.  This will create a contact `Spam`.
-2. If you own an iPhone, open the `Spam` contact, scroll to the bottom and set the *Ringtone* and *Text Tone* to "Silence" or "None".
+If you own an iPhone, open the `Spam` contact, scroll all the way to the bottom, and set the *Ringtone* and *Text Tone* to "Silence" or "None".  See the illustration below.
 
-
-### Android
+### on Android
 
 Contribution to come.
 
