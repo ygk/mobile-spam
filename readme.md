@@ -2,7 +2,7 @@
 
 This is a growing collection of SPAM callers to mobile devices in the Kingston region.
 
-Oresently there are 106 caller-ids in the vCard.
+Oresently there are 106 caller-ids in the [vCard](https://github.com/ygk/mobile-spam/blob/master/spam.vcf).
 
 ## Installation
 
