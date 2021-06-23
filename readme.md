@@ -6,7 +6,7 @@ Presently there are 109 caller-ids in the [vCard](https://github.com/ygk/mobile-
 
 ## Installation
 
-Regardless of your type of smartphone, send the [`spam.vcf` vCard file](https://github.com/ygk/mobile-spam/blob/master/spam.vcf) to your phone and click on it.  This will create a contact named `Spam`.
+Regardless of your type of smartphone, send the [`spam.vcf` vCard file](https://github.com/ygk/mobile-spam/blob/master/spam.vcf) to your phone and click on it.  This will create a contact named `SPAM`.
 
 ### on iOS
 
